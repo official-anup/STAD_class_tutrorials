@@ -95,7 +95,7 @@ WebDriver driver;
 	@Then("Verify error message Your email or password is incorrect! is visible")
 	public void verifyError()
 	{
-		System.out.println("Error message is visible");
+		System.out.println("Error message is visible now");
 	}
 	
 	

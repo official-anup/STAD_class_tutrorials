@@ -18,7 +18,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 //
 //
 //        // Launch Chrome browser
-        WebDriver driver = new ChromeDriver();
+//        WebDriver driver = new ChromeDriver();
 //
 //        // Open Facebook login page
 //        driver.get("https://www.facebook.com/");
