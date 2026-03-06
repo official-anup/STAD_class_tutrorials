@@ -30,7 +30,7 @@ WebDriver driver;
 		driver.manage().window().maximize();
 	}
 
-	//navigate to url
+	//navigate to URL
 	@And("navigate to URL")
 	public void navigateToUrl() 
 	{
