@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="POM1.base_test">
+      <class name="TestNg.parameter1">
         <methods>
-          <include name="loginTest"/>
+          <include name="show1"/>
+          <include name="show2"/>
         </methods>
-      </class> <!-- POM1.base_test -->
+      </class> <!-- TestNg.parameter1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
